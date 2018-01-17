@@ -1,0 +1,30 @@
+header {
+	background-image: url('../img/dragonwingdeathlord.jpg');
+	background-size: cover;
+	padding: 140px;
+	text-align: center;
+	color: #c29f75;	
+}
+.content {
+	text-align: center;
+	color: black;
+	max-width: 900px
+	margin: 0 auto;
+	background-color: gray;
+
+}
+header img{
+	border-radius: 150px;
+	width: 300px;
+    height: 280px;
+	border: 10px solid #000000; 
+	box-shadow: 0 10px 20px black;
+}
+.quote {
+	background-color: #3E3E3E;
+	text-align: center;	
+}
+.stickleft {
+	size: 30px;
+	text-align: left;
+}
